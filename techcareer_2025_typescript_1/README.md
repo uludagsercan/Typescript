@@ -1,7 +1,7 @@
 
 # Techcareer Typescript
 ---
-
+[Github] https://github.com/uludagsercan/Typescript/tree/main/techcareer_2025_typescript_1
 
 ## Git
 ```sh
